@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "node.js": "^0.0.1-security",
+    "twitter-api-v2": "^1.15.2"
+  }
+}
